@@ -1,0 +1,1 @@
+await interaction.channel.setRateLimitPerUser(secondes);

@@ -1,0 +1,1 @@
+{"name":"premium-discord-bot","version":"1.0.0","description":"Bot Discord multifonction","main":"xx.js","scripts":{"start":"node xx.js"},"dependencies":{"discord.js":"^14.21.0","dotenv":"^16.6.1"}}

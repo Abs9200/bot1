@@ -1,0 +1,1 @@
+await member.timeout(10 * 60 * 1000, reason);

@@ -1,0 +1,1 @@
+await member.kick(reason);
